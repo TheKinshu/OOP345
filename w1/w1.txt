@@ -1,0 +1,19 @@
+Script started on Tue 17 May 2016 02:11:10 PM EDT
+kcho18@matrix:~/oop345/w1> whoami
+kcho18
+kcho18@matrix:~/oop345/w1> cat w1_cpp/c[K[K.cpp
+cat: w1_cpp.cpp: No such file or directory
+kcho18@matrix:~/oop345/w1> g++ w[K-o w1 w1.cpp CST[Ktring.cpp process.cpp [K
+kcho18@matrix:~/oop345/w1> w1 pp[K[Koop345 btp305
+Command Line : w1 oop345 btp305
+Maximum number of characters stored : 3
+0: oop
+1: btp
+
+kcho18@matrix:~/oop345/w1> w1
+Command Line : w1
+Insufficient number of arguments (min 1)
+kcho18@matrix:~/oop345/w1> exit
+exit
+
+Script done on Tue 17 May 2016 02:12:49 PM EDT
